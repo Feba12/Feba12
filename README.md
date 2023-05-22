@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m a curious learner enthusiastic to work on the developing technology and improve my skills
 <!--
 **Feba12/Feba12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
